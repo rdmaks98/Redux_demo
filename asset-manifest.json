@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rdmaks98/Redux_demo/static/css/main.759b944e.css",
+    "main.js": "/rdmaks98/Redux_demo/static/js/main.4e1ab72d.js",
+    "index.html": "/rdmaks98/Redux_demo/index.html",
+    "main.759b944e.css.map": "/rdmaks98/Redux_demo/static/css/main.759b944e.css.map",
+    "main.4e1ab72d.js.map": "/rdmaks98/Redux_demo/static/js/main.4e1ab72d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.759b944e.css",
+    "static/js/main.4e1ab72d.js"
+  ]
+}
